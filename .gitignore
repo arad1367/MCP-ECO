@@ -1,0 +1,6 @@
+output/
+derived/
+raw/
+logs/
+__pycache__/
+*.pyc
